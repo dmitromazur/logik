@@ -1,0 +1,38 @@
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+ header{
+    
+ }
+ #rr {
+     background-color: cornflowerblue;
+     text-decoration: none;
+ }
+.zz{
+    color: blue;
+}
+
+footer {
+    background-color:green ;
+}
+
+footer p {
+    color: greenyellow;
+    background-color: rgb(0, 78, 223);
+}
+
+nav {
+     
+}
+
+nav a{
+    text-decoration: none;
+    background-color: yellowgreen;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+.img11 {
+    background-color: aquamarine;
+}
